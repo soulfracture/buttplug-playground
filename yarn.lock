@@ -452,8 +452,9 @@ async@^1.5.2:
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
 
 atob@^2.0.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/atob/-/atob-2.0.3.tgz#19c7a760473774468f20b2d2d03372ad7d4cbf5d"
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
+  integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
 babel-code-frame@^6.22.0:
   version "6.26.0"
@@ -683,10 +684,10 @@ builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
 
-buttplug@^0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/buttplug/-/buttplug-0.12.0.tgz#65c1152183ca4d545fc5232d3964f567628d0ff8"
-  integrity sha512-JYFcxlGXzk0RKoxGUpIi7clFv8I3QR5skl/kKx09uzeOhOF2InjHfzige0Aa1u3HQ365ZblULDUQfMldX4IQjA==
+buttplug@^0.12.1:
+  version "0.12.1"
+  resolved "https://registry.yarnpkg.com/buttplug/-/buttplug-0.12.1.tgz#a1dcf262b3ef2777d2fcfa32412bdb4ac6765656"
+  integrity sha512-X7GBIXYyvwlyuxGCMkYB3ymzGwYLxIYQvnxW66JpSokSs+22ni/OUY2LAn5eLCX5n+iiE65gIJsaQwtGIuGXWA==
   dependencies:
     ajv "^6.10.2"
     class-transformer "^0.2.3"
@@ -5176,10 +5177,10 @@ vue-awesome@^3.5.4:
   resolved "https://registry.yarnpkg.com/vue-awesome/-/vue-awesome-3.5.4.tgz#da14ca20a3c6415c72823a7f743022f2dbd0183f"
   integrity sha512-RRuo08A6mFye2RyLVdnODH5kyLiHANMl9EzKXZXCeMrsP4SY3nyjkQnTGlgbbVOBQuaGBMrFp9HPOJYDaVNk/w==
 
-vue-buttplug-material-component@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/vue-buttplug-material-component/-/vue-buttplug-material-component-1.0.1.tgz#dad36ce73d56e9a87e0c30f5ebd3387795e8f23f"
-  integrity sha512-l7Ph025srnSWagMwnh22TpGTV4OGc8F3KkRHHZ/aN0sbDz4/u1Q6vNOoqyxV0/tPWqWppkOd5F5PFLvZhQgwpw==
+vue-buttplug-material-component@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vue-buttplug-material-component/-/vue-buttplug-material-component-1.0.2.tgz#908ad3b0610fb985ade0a6e37e89c05ef4e16bc9"
+  integrity sha512-N+hzqJx/387UejtuTf9l9JLHd1ltCJn/c5+hBdgSCDjUb5nAdzwaTxnecImnrpRpUAdMVKPz4qhbtwjvanuz1w==
   dependencies:
     vue-class-component "^7.1.0"
     vue-cookies "^1.5.13"
